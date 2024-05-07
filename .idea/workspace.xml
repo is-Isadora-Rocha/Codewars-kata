@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9e843d5-fb24-4350-94ac-43070692c3f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codewars_kata.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/countByX/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/countByX/KataTest.java" afterDir="false" />
+    <list default="true" id="d9e843d5-fb24-4350-94ac-43070692c3f2" name="Changes" comment="link saiba mais java">
+      <change beforePath="$PROJECT_DIR$/src/countByX/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/countByX/Kata.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "is-Isadora-Rocha"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/is-Isadora-Rocha/Codewars-kata.git",
+    "accountId": "707c946d-83d1-42b2-8ab9-f0434a6323aa"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -101,6 +104,28 @@
       <option name="presentableId" value="Default" />
       <updated>1715110172274</updated>
     </task>
+    <task id="LOCAL-00001" summary="desafio contbyx">
+      <option name="closed" value="true" />
+      <created>1715113106810</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715113106810</updated>
+    </task>
+    <task id="LOCAL-00002" summary="link saiba mais java">
+      <option name="closed" value="true" />
+      <created>1715114009588</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715114009588</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="desafio contbyx" />
+    <MESSAGE value="link saiba mais java" />
+    <option name="LAST_COMMIT_MESSAGE" value="link saiba mais java" />
   </component>
 </project>
