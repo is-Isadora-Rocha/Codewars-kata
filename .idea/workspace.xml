@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9e843d5-fb24-4350-94ac-43070692c3f2" name="Changes" comment="link saiba mais java">
-      <change beforePath="$PROJECT_DIR$/src/countByX/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/countByX/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oppositeNumber/KataOpposite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oppositeNumber/OppositeExampleTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +49,7 @@
     "Downloaded.Files.Path.Enabled": "false",
     "JUnit.KataTest.executor": "Run",
     "JUnit.KataTest.fixedTests.executor": "Run",
+    "JUnit.OppositeExampleTests.executor": "Run",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
@@ -56,7 +58,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.KataTest">
+  <component name="RunManager" selected="JUnit.OppositeExampleTests.tests">
     <configuration name="KataTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Codewars_kata" />
       <extension name="coverage">
@@ -88,8 +90,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OppositeExampleTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Codewars_kata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oppositeNumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="oppositeNumber" />
+      <option name="MAIN_CLASS_NAME" value="oppositeNumber.OppositeExampleTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OppositeExampleTests.tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Codewars_kata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oppositeNumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="oppositeNumber" />
+      <option name="MAIN_CLASS_NAME" value="oppositeNumber.OppositeExampleTests" />
+      <option name="METHOD_NAME" value="tests" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.OppositeExampleTests.tests" />
+        <item itemvalue="JUnit.OppositeExampleTests" />
         <item itemvalue="JUnit.KataTest" />
         <item itemvalue="JUnit.KataTest.fixedTests" />
       </list>
@@ -120,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715114009588</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="link saiba mais java">
+      <option name="closed" value="true" />
+      <created>1715114022113</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715114022114</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
