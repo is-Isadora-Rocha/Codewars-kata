@@ -25,6 +25,8 @@ public class Kata {
         => IntStream.range(1, 5);  	//1,2,3,4
         => IntStream.rangeClosed(1, 5);  	//1,2,3,4,5
 
+        https://howtodoinjava.com/java8/intstream-examples/
+
 */
     }
 }
